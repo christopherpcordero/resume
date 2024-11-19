@@ -26,13 +26,13 @@ For more about my professional experience, visit my [LinkedIn](https://linkedin.
 - **Description**: Designed and implemented a virtual penetration testing lab for ethical hacking and skill-building.
 - **Tools**: Azure resources
 - **Skills Demonstrated**: cloud engineering/architecture, cloud network security
-- **Repository**: [Penetration Testing Lab](link-to-repo)
+- [**Repository**](link-to-repo)
 
 #### Vulnerability Assessment & Reporting
 - **Description**: Using the Virtual Lab use that attack vm (kali) to perform a vulnerability pentest. Report findings and create a vulnerability report
 - **Tools** Kali linux, ssh, nmap
 - **Skills**: Network reconnaissance, vulnerability exploitation, report generation
-- **Repository**
+- [**Repository**](link-to-repo)
 
 #### Vulnerability Detection & Reporting
 - **Description**: Using the virtual lab, configured SIEM to detect attacks during my penetration testing
@@ -45,7 +45,7 @@ For more about my professional experience, visit my [LinkedIn](https://linkedin.
 - **Description**: Minimualist python program to check strength of a password using NIST password standards
 - **Tools**: python, NIST
 - **Skills Demonstrated**: security standards
-- **Repository**: [Incident Response Simulation](link-to-repo)
+- [**Repository**](link-to-repo)
 
 ---
 
