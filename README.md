@@ -24,10 +24,21 @@ For more about my professional experience, visit my [LinkedIn](https://linkedin.
 
 ### **Virtual Lab Setup**
 - **Description**: Designed and implemented a virtual penetration testing lab for ethical hacking and skill-building.
-- **Tools**: Azure resources, Kali Linux, Ubuntu
-- **Skills Demonstrated**: Network reconnaissance, vulnerability exploitation, report generation
+- **Tools**: Azure resources
+- **Skills Demonstrated**: cloud engineering/architecture, cloud network security
 - **Repository**: [Penetration Testing Lab](link-to-repo)
 
+#### Vulnerability Assessment & Reporting
+- **Description**: Using the Virtual Lab use that attack vm (kali) to perform a vulnerability pentest. Report findings and create a vulnerability report
+- **Tools** Kali linux, ssh, nmap
+- **Skills**: Network reconnaissance, vulnerability exploitation, report generation
+- **Repository**
+
+#### Vulnerability Detection & Reporting
+- **Description**: Using the virtual lab, configured SIEM to detect attacks during my penetration testing
+- **Tools** Splunk
+- **Skills**: Log analysis, incident response
+- **Repository** 
 ---
 
 ### **Password Strength Checker**
@@ -38,27 +49,6 @@ For more about my professional experience, visit my [LinkedIn](https://linkedin.
 
 ---
 
-### **3. Web Application Security Testing**
-- **Description**: Performed security testing on a custom-built web application, identifying and remediating vulnerabilities such as SQL Injection and XSS.
-- **Tools**: Burp Suite, OWASP ZAP, Python scripts
-- **Skills Demonstrated**: Web vulnerability scanning, manual testing, secure coding practices
-- **Repository**: [Web App Security Testing](link-to-repo)
-
----
-
-### **4. Digital Forensics Case Analysis**
-- **Description**: Investigated a mock cybercrime using forensic tools to extract and analyze data from disk images and memory dumps.
-- **Tools**: Autopsy, FTK Imager, Volatility
-- **Skills Demonstrated**: Evidence collection, timeline analysis, report writing
-- **Repository**: [Forensics Case Analysis](link-to-repo)
-
----
-
-### **5. Cloud Security Audit**
-- **Description**: Conducted a security audit on an Azure cloud environment, identifying misconfigurations and securing resources.
-- **Tools**: Azure Security Center, PowerShell scripts
-- **Skills Demonstrated**: Cloud vulnerability assessment, automation, compliance checks
-- **Repository**: [Cloud Security Audit](link-to-repo)
 
 ---
 
