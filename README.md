@@ -45,7 +45,7 @@ For more about my professional experience, visit my [LinkedIn](https://linkedin.
 - **Description**: Minimualist python program to check strength of a password using NIST password standards
 - **Tools**: python, NIST
 - **Skills Demonstrated**: security standards
-- [**Repository**](link-to-repo)
+- [**Repository**](https://github.com/christopherpcordero/pwchecker)
 
 ---
 
