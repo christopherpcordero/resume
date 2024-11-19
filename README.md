@@ -3,7 +3,7 @@
 ## About Me
 
 I am currently a Network & System Administrator with expertise in endpoint management and security, cloud engineering, vulnerability assement and the dedication to learn more. 
-For more about my professional experience, visit my [LinkedIn](https://linkedin.com/in/christopherpcordero).
+For more about my professional experience, visit my [LinkedIn](https://linkedin.com/in/christopherpaulcordero).
 
 ---
 
@@ -62,7 +62,7 @@ For more about my professional experience, visit my [LinkedIn](https://linkedin.
 ## Contact
 
 - **Email**: christopher.p.cordero@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/christopherpcordero)
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/christopherpaulcordero)
 - **GitHub**: [Your GitHub](https://github.com/christopherpcordero)
 
 ---
