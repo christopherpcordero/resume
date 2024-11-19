@@ -1,2 +1,2 @@
-# resume
-Cyber Resume
+#CHRISTOPHER P. CORDERO
+christopher.paul.cordero@gmail.com
