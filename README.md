@@ -2,7 +2,7 @@
 ---
 ## About Me
 
-I am currently a Network & System Administrator with expertise in endpoint management and security, cloud engineering, vulnerability assement and the dedication to learn more. 
+Experienced IT professional with expertise in cloud architecture, network administration, and endpoint management/security. At Hamamatsu Corporation, I spearhead Microsoft Azure migrations, implement advanced security frameworks, and manage enterprise device onboarding using Intune. As a uniformed Service Member with a DoD Secret Clearance, I bring strong leadership and a strategic approach to building resilient, secure infrastructures. 
 For more about my professional experience, visit my [LinkedIn](https://linkedin.com/in/christopherpaulcordero).
 
 ---
