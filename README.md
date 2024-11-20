@@ -36,7 +36,7 @@ Experienced IT professional with expertise in cloud architecture, network admini
 
 #### Vulnerability Detection & Reporting
 - **Description**: Using the virtual lab, configured SIEM to detect attacks during my penetration testing
-- **Tools** Splunk
+- **Tools** Wazuh, ManageEngine Log360, Splunk
 - **Skills**: Log analysis, incident response
 - **Repository** 
 ---
@@ -62,8 +62,8 @@ Experienced IT professional with expertise in cloud architecture, network admini
 ## Contact
 
 - **Email**: christopher.p.cordero@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/christopherpaulcordero)
-- **GitHub**: [Your GitHub](https://github.com/christopherpcordero)
+- [**LinkedIn**](https://linkedin.com/in/christopherpaulcordero)
+- [**GitHub**](https://github.com/christopherpcordero)
 
 ---
 
