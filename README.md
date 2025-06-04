@@ -22,6 +22,12 @@ Experienced IT professional with expertise in cloud architecture, network admini
 
 ## Projects
 
+### **File Analysis Tool**
+- **Description**: Robust python program that uses VirusTotal API to conduct file analysis
+- **Tools**: python, VirusTotal
+- **Skills Demonstrated**: python, API, malware analysis, security auditing, digital forensics
+- [**Repository**](https://github.com/christopherpcordero/projects/tree/main/fileAnalysis)
+- 
 ### **Virtual Lab Setup**
 - **Description**: Designed and implemented a virtual environment hosted in Azure to practice pentration testing, vulnerability detection and reporting.
 - **Tools**: Azure resources
@@ -49,6 +55,8 @@ Experienced IT professional with expertise in cloud architecture, network admini
 
 ---
 ## CTFs
+- [**Write-Ups**](https://www.notion.so/TryHackMe-1fc7316e4b1280dcab21ea0f8bc65b3c?source=copy_link)
+
 ### THM - Basic Pentesting
 - **Summary**: CTF-like Web App Testing and Privilege Escalation
 - [**Report**](https://www.notion.so/THM-Basic-Pentesting-1fb7316e4b1280558595fd1d1c83c078?pvs=4)
